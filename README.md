@@ -85,10 +85,12 @@ class ChartjsController extends Controller
     {
         return $content
             ->header('Chartjs')
-            ->body(view('admin.chartjs'));
+            ->body(new Box('Bar chart', view('admin.chartjs')));
     }
 }
 ```
+
+For more usage, please refer to the official [documentation](http://www.chartjs.org/) of chartjs.
 
 ## Donate
 
