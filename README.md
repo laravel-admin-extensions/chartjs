@@ -25,7 +25,7 @@ Open `config/admin.php`, add configurations that belong to this extension at `ex
 
     'extensions' => [
 
-        'daterangepicker' => [
+        'chartjs' => [
         
             // Set to `false` if you want to disable this extension
             'enable' => true,
