@@ -1,6 +1,13 @@
 Use Chartjs in laravel-admin
 ======
 
+[DEMO](http://demo.laravel-admin.org/chartjs)
+
+Login using `admin/admin`
+
+## Screenshot
+
+![qq20180917-132122](https://user-images.githubusercontent.com/1479100/45607189-2b018b80-ba7d-11e8-845e-d7ab810bc07f.png)
 
 ## Installation
 
