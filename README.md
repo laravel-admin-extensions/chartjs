@@ -36,7 +36,7 @@ Open `config/admin.php`, add configurations that belong to this extension at `ex
 
 ## Usage
 
-Create a view in views directory like `resources/views/admin/chart.blade.php`, and add following codes:
+Create a view in views directory like `resources/views/admin/chartjs.blade.php`, and add following codes:
 ```html
 <canvas id="myChart" width="400" height="400"></canvas>
 <script>
